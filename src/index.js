@@ -1,10 +1,2 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-
-import './index.css';
-
-ReactDOM.render(
-  <App />,
-  document.getElementById('root')
-);
+import NameForm from "./js/components/container/NameForm.jsx";
 
