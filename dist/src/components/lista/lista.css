@@ -1,0 +1,30 @@
+h1,thead{
+    color: #fff
+}
+.MarginContainer {
+    margin-top: 2rem;
+}
+
+.color-white{
+    color: #fff;
+    font-size: 35px;
+}
+
+.AlignCenter {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.CustomLink {
+    color: #000;
+    text-decoration: none;
+}
+
+.CustomLink:hover{
+    text-decoration: none;
+}
+
+.M-6 {
+    margin:2rem;
+}

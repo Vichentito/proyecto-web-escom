@@ -1,0 +1,15 @@
+.M-6{
+    background-color: rgb(97, 11, 90);
+    border: none;
+    color: white;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #33ccff;
+    transition: ease-out 0.5s;
+    font-size: 1rem;
+    outline: none;
+}
+
+.M-6:hover{
+    box-shadow: inset 50px 0 0 0 #ec8f04;
+}
+
